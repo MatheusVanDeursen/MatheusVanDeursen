@@ -1,4 +1,4 @@
-### Olá, eu sou o Matheus ☕
+### Olá, eu sou o Matheus Petrus ☕
 
 Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem estruturadas. Gosto de transitar desde o design de interfaces responsivas em javascript puro até a implementação de arquiteturas limpas no back-end (como MVP e N-Tier). Quando não estou codando, provavelmente estou assistindo animes ou jogando CS.
 
@@ -16,7 +16,7 @@ Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem e
 | Repositório | Descrição |
 | ----------- | ----------- |
 | [**LocadoraModular-Java**](https://github.com/MatheusVanDeursen/LocadoraModular-Java) | Sistema de locação focado em alta modularização e padrão mvp |
-| [**kanban_web**](https://github.com/MatheusVanDeursen/kanban_web) & [**api**](https://github.com/MatheusVanDeursen/kanban_api) | Interface responsiva construída do zero com api restful |
+| [**kanban_web**](https://github.com/MatheusVanDeursen/kanban_web) & [**api**](https://github.com/MatheusVanDeursen/kanban_api) | Interface Drag&Drop responsiva construída do zero em javascript com api restful |
 | [**FloraPsi**](https://github.com/MatheusVanDeursen/FloraPsi) | Tema wordpress minimalista, personalizado e de alta performance para profissionais de psicologia |
 
 ### Toolkit ✽
