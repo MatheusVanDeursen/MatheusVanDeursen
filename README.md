@@ -1,16 +1,17 @@
 
 ### Olá, eu sou o Matheus Petrus ☕
 
-Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem estruturadas. Gosto de transitar desde o design de interfaces responsivas em javascript puro até a implementação de arquiteturas limpas no back-end (como MVP e N-Tier). Quando não estou codando, provavelmente estou assistindo animes ou jogando CS.
+🌱 Graduando em Ciência da Computação pela @ UERJ
 
----
+🪴 Formado em Programação Full Stack pela Step Computer Academy (2021 - 2024).
 
-### Sobre Mim ✦
+🥰 Interesses: Desenvolvimento Web (Front-end e Back-end), Engenharia de Software, Usabilidade e Design Responsivo.
 
-💻 Dev Full Stack & Freelancer autônomo do Rio de Janeiro, Brasil  
-🎓 Graduando em Ciência da Computação @ UERJ  
-🚀 Desenvolvedor Front-End @ BitWebJr  
-🐧 Entusiasta de Linux, home servers e manutenção de hardware  
+🚀 Vivência prática com: Desenvolvimento de sites (HTML, CSS, JavaScript, PHP) , personalização de lojas e temas em Wordpress , e frameworks ágeis (Scrum).
+
+🎨 Experiências na faculdade: Desenvolvedor Web e Membro da BitWebJr (Empresa Júnior da UERJ), atuando em projetos reais de clientes; Monitor do minicurso de Desenvolvimento Web e Front-end.
+
+💼 Projetos paralelos: Atuação como Desenvolvedor Web Freelancer, construindo interfaces de e-commerces, temas do Wordpress e peças gráficas com Photoshop.
 
 ---
 
@@ -19,7 +20,6 @@ Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem e
 | Repositório | Descrição |
 | ----------- | ----------- |
 | [**kanban_web**](https://github.com/MatheusVanDeursen/kanban_web) & [**api**](https://github.com/MatheusVanDeursen/kanban_api) | Interface Drag&Drop responsiva construída do zero em JavaScript com API RESTful |
-| [**pomodoro_web**](https://github.com/MatheusVanDeursen/pomodoro_web) & [**api**](https://github.com/MatheusVanDeursen/pomodoro_api) | Aplicação de produtividade baseada em Pomodoro com arquitetura moderna, autenticação anônima (UUID) e persistência de sessões |
 | [**LocadoraModular-Java**](https://github.com/MatheusVanDeursen/LocadoraModular-Java) | Sistema de locação focado em alta modularização e padrão MVP |
 | [**FloraPsi**](https://github.com/MatheusVanDeursen/FloraPsi) | Tema WordPress minimalista, personalizado e de alta performance para profissionais de psicologia |
 
@@ -30,7 +30,6 @@ Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem e
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -43,9 +42,7 @@ Sou um desenvolvedor full stack focado em criar aplicações escaláveis e bem e
 
 ---
 
-### Vamos Conectar ⸸
-
-Fique à vontade para explorar meus repositórios! Podemos conversar sobre código, arquitetura, setups de servidores ou qualquer outra tecnologia. Se algum código meu te ajudar ou servir de inspiração, me avise! ✌️  
+### Outras redes ⸸ 
 
 ↳ **linkedin:** [MatheusVanDeursen](https://www.linkedin.com/in/matheus-petrus-van-deursen)  
 
